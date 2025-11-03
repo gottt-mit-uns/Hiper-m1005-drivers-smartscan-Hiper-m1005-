@@ -34,4 +34,4 @@ Distribution is carried out for informational purposes.
 
 Before use, read the manufacturer's license agreement.
 
-Capture.png
+![ПРОВЕРКА НА ВИРУСЫ](Capture.png)
