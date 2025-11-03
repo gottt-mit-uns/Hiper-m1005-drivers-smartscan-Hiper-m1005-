@@ -6,8 +6,6 @@
 
 Приложение для сканирования — фирменная программа, позволяющая сканировать документы и изображения с настройкой качества, формата и других параметров.
 
-Утилиты управления — дополнительные инструменты для мониторинга состояния принтера, калибровки, очистки печатающих головок и обновления прошивки.
-
 Внимание:
 
 Все файлы в архиве являются официальными дистрибутивами Hiper M‑1005.
@@ -25,8 +23,6 @@ Package Contents
 Print drivers - provide basic printer functionality on Windows (versions for 32-bit and 64-bit systems).
 
 Scanning application - a proprietary program that allows you to scan documents and images with adjustable quality, format, and other settings.
-
-Management utilities - additional tools for monitoring printer status, calibration, cleaning print heads, and updating firmware.
 
 Attention:
 
