@@ -33,3 +33,5 @@ The author of this collection is not the copyright holder of the software.
 Distribution is carried out for informational purposes.
 
 Before use, read the manufacturer's license agreement.
+
+Capture.png
